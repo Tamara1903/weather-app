@@ -1,20 +1,20 @@
 body {
-  background-color: rgb(26, 24, 24);
-}
-h1,
-h2 {
-  text-align: center;
-  margin: 20px;
+  display: block;
+  margin: 0 20px;
   font-family: "Open Sans", sans-serif;
   color: rgb(240, 241, 229);
 }
+
 h1 {
   font-size: 55px;
   font-weight: 500;
+  text-align: center;
 }
+
 h2 {
   font-size: 18px;
   font-weight: 300;
+  text-align: center;
 }
 
 ul {
